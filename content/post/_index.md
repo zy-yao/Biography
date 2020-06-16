@@ -1,14 +1,15 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: true
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
+title: First time use it!
+subtitle: try!
+date: 2020-06-16T18:08:44.204Z
+featured: true
+image:
+  filename: avatar.jpg
+  preview_only: true
 ---
+exciting!
