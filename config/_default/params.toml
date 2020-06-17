@@ -15,7 +15,7 @@
 #   Browse user installed themes in `data/themes/`
 
 #theme = "minimal"
-theme = "Coffe"
+theme = "Coffee"
 
 # Enable users to switch between day and night mode?
 day_night = true
