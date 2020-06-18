@@ -25,9 +25,6 @@ interests:
 - Reinforcement learning
 - Bioinformatics
 
-
-
-
 education:
   courses:
   - course: MSC in Information Technology
