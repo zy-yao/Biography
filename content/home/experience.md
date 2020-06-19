@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-04"
   date_end = ""
   description = """
-Responsibilities include:
+  Responsibilities include:
 
   * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like deep learning
   * Design prototypes for performance evaluation of components and for big data programming models and context links
@@ -55,6 +55,14 @@ Responsibilities include:
   location = "Shenzhen, China"
   date_start = "2017-07-01"
   date_end = "2017-09-01"
-  description = """I worked as an intern in my sister's start-up. Participated in the company's operations, like administration, marketing and finance affairs"""
+  description = """
+  Experience include:
+
+  * Familiar with the business and operation of EWM module in SAP system within one month
+  * Assist colleagues in different tasks and improving new system
+  * Teach the corporate customers to operate new system in implementation phase of the system
+  * Received approval from the whole team and got a recommend letter from the project manager of Deloitte
+
+  """
 
 +++
