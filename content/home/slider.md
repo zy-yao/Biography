@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome"
-  content = "若見諸相非相，則見如來"
+  content = "諸相非相"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
