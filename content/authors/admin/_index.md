@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:frank7.yao@connect.polyu.hk".
+  link: 'mailto:frank7.yao@connect.polyu.hk'  # For a direct email link, use "mailto:frank7.yao@connect.polyu.hk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/zy-yao
@@ -67,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-**Mr.** **Zhongyu YAO** received the B.Eng. from School of Computer Science and Technology, Chongqing University of Posts and Telecommunications at 2018. He is currently a M.Sc. student and a part-time research assistant with Department of Computing, The Hong Kong Polytechnic University. He was a visiting student with University of California, Irvine from July 2016 to September 2016. His research interests include Data Mining, machine Learning and Deep Learning.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am **Zhongyu YAO** received the B.Eng. from School of Computer Science and Technology, Chongqing University of Posts and Telecommunications at 2018. He is currently a M.Sc. student and a part-time research assistant with Department of Computing, The Hong Kong Polytechnic University. He was a visiting student with University of California, Irvine from July 2016 to September 2016. His research interests include Data Mining, machine Learning and Deep Learning.
