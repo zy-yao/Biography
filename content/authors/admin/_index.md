@@ -54,7 +54,7 @@ social:
   icon_pack: fab
   link: https://github.com/zy-yao
 # Linkedin
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/frank-yao-59ab61151/
 
