@@ -36,12 +36,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Director Assistant Intern"
+  company = "Hangzhou Taihao Science&Technology Co.Ltd."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hangzhou, China"
+  date_start = "2018-07"
+  date_end = "2018-09"
+  description = """I worked as an intern in my sister's start-up"""
 
 +++
