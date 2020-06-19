@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am Zhongyu YAO (**姚钟毓** in Chinese). I received the B.Eng. from School of Computer Science and Technology, Chongqing University of Posts and Telecommunications at 2018. I am currently a M.Sc. student and a part-time research assistant with Department of Computing, The Hong Kong Polytechnic University. I was a visiting student with University of California, Irvine from July 2016 to September 2016. My research interests include Data Mining, machine Learning and Deep Learning.
+I am Zhongyu YAO (**姚钟毓** in Chinese). I received the B.Eng. from School of Computer Science and Technology in 2018. I am currently a M.Sc. student and a part-time research assistant with Department of Computing, The Hong Kong Polytechnic University. I was a visiting student with University of California, Irvine from July 2016 to September 2016. My research interests include Data Mining, machine Learning and Deep Learning.
 
-Always Open to listen to all interesting ideals.
+Always Open to listen to interesting ideals.
