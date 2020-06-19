@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome"
-  content = "I am center aligned :smile:"
+  content = "若見諸相非相，則見如來"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,13 +29,14 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
+  title = "Trilakṣaṇā dharmamudrā"
   content = ""
   align = "left"
 
@@ -45,8 +46,8 @@ height = ""
 
 [[item]]
   title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  content = "Cogito ergo sum"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "blue-brain2.jpg"  # Image path relative to your `static/img/` folder.
