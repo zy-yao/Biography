@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = """I worked as an intern in my sister's start-up. Participated in the company's operations, like administration, marketing and finance affairs"""
+  description = """I worked as an intern in my sister's start-up. Participated in the company's operations, like administration, marketing and finance affairs."""
 
 
 [[experience]]
