@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_start = "2019-05-04"
   date_end = ""
   description = """
+Responsibilities include:
+
   * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like deep learning
   * Design prototypes for performance evaluation of components and for big data programming models and context links
   * Cooperate with colleagues in range wide of works, including system deployment and thesis writing
@@ -43,6 +45,16 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = """I worked as an intern in my sister's start-up"""
+  description = """I worked as an intern in my sister's start-up. Participated in the company's operations, like administration, marketing and finance affairs"""
+
+
+[[experience]]
+  title = "Consulting Intern"
+  company = "Deloitte"
+  company_url = "https://www2.deloitte.com/cn/en/services/consulting.html?icid=top_consulting"
+  location = "Shenzhen, China"
+  date_start = "2017-07-01"
+  date_end = "2017-09-01"
+  description = """I worked as an intern in my sister's start-up. Participated in the company's operations, like administration, marketing and finance affairs"""
 
 +++
