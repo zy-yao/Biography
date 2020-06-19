@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research Assistant"
   company = "The Hong Kong Polytechnic University"
@@ -28,12 +29,12 @@ date_format = "Jan 2006"
   * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like deep learning
   * Design prototypes for performance evaluation of components and for big data programming models and context links
   * Cooperate with colleagues in range wide of works, including system deployment and thesis writing
-  # Responsibilities include:
-  
-  # * Analysing
-  # * Modelling
-  # * Deploying
   """
+# Responsibilities include:
+
+# * Analysing
+# * Modelling
+# * Deploying
 
 [[experience]]
   title = "Director Assistant Intern"
