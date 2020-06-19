@@ -60,8 +60,11 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+- icon: file-user
+  icon_pack: fab
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
