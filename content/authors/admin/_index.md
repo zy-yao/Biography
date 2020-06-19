@@ -64,7 +64,7 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 - icon: file-user
-  icon_pack: fab
+  icon_pack: fas
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
