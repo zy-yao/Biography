@@ -14,8 +14,10 @@ role: RA of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The Hong Kong Polytechnic University
+  url: "https://www.polyu.edu.hk/"
+- name: IMCL, Department of Computing
+  url: "https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My name is Zhongyu Yao(姚钟毓 in Chinese).My research interests include data mining, machine learning and deep learning.
