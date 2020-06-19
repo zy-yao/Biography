@@ -63,7 +63,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: file-user
+- icon: id-card
   icon_pack: fas
   link: files/cv.pdf
 
