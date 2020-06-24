@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This is a new journal paper focus on appying a sequential attention based CNN in anomaly detection.
+This is a new journal paper focusing on appying a sequential attention based CNN in anomaly detection.
