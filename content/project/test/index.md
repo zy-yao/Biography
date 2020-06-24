@@ -13,4 +13,6 @@ image:
   focal_point: CENTER
   preview_only: true
 ---
+![](bigarm.jpg)
+
 We develop a series of prediction models using big data techniques to predict unknown factors affecting resource management, and design novel allocation algorithms to efficiently manage resources.
