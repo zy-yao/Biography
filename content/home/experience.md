@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   description = """
   Experience include:
 
-  * Familiar with the business logics and operation of EWM module in SAP system within one month
+  * Familiar with the business logic and operation of EWM module in SAP system within one month
   * Assist colleagues in different tasks and improving new system
   * Teach the corporate customers to operate new system in implementation phase of the system
   * Received approval from the whole team and got a recommend letter from the project manager of Deloitte
