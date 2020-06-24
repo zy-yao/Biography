@@ -1,5 +1,5 @@
 ---
-title: "2020.2: One paper received in DASFAA 2020"
+title: "2020.02: One paper received in DASFAA 2020"
 date: 2020-02-10T13:33:30.073Z
 draft: false
 featured: false
