@@ -6,7 +6,7 @@ draft: false
 featured: false
 external_link: --
 image:
-  filename: big_arm.png
+  filename: bigarm.jpg
   focal_point: Smart
   preview_only: false
 ---
