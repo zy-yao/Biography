@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Analyze and model more than 1.837 million Taobao desensitization data by Java and Python. C4.5, Bayesian, KNN and TF-IDF are used to modeling.
+Analyze and model more than 1.837 million Taobao desensitization data by Java and Python. C4.5, Bayesian, KNN and TF-IDF are used to modeling. I have ranked 17 more than 2 years ([my ranking: Frankyy](https://tianchi.aliyun.com/competition/entrance/231575/rankingList#)).
