@@ -7,7 +7,7 @@ external_link: --
 image:
   filename: ey2.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true #false
 ---
 We predict the vehicle location in the city of Atlanta.
 
