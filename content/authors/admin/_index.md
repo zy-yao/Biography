@@ -20,11 +20,13 @@ organizations:
   url: "https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Zhongyu Yao(姚钟毓 in Chinese).My research interests include data mining, machine learning and deep learning.
+bio: My name is Zhongyu Yao(姚钟毓 in Chinese).My research interests include machine learning and data mining.
 
 interests:
-- Data Mining
+- Applied machine learning
 - Reinforcement learning
+- Auto ML
+- Explainable AI
 - Bioinformatics
 
 education:
@@ -63,7 +65,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: id-card
+- icon: 
   icon_pack: fas
   link: files/cv.pdf
 
@@ -77,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-I am Zhongyu YAO (**姚钟毓** in Chinese). I received the B.Eng. from School of Computer Science and Technology in 2018. I am currently a M.Sc. student and a part-time research assistant with Department of Computing, The Hong Kong Polytechnic University. I was a visiting student with University of California, Irvine from July 2016 to September 2016. My research interests include Data Mining, machine Learning and Deep Learning.
+I am Zhongyu YAO (**姚钟毓** in Chinese). I just received M.Sc. from dept of Computing, the Hong Kong Polytechnic University, and work as a research assistant there. I have a strong passion for machine learning/data mining-related R&D. So, I joined in many data mining competitions and got good rankings. These competitions also provide me with hands-on experience in **Python**, **C**, **Java** programming. Besides, knowing the truth/origin of life and helping others also always attract me. To combine my interests and abilities, I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
 
 Always Open to listen to interesting ideals.
