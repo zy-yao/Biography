@@ -8,6 +8,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "house_price.jpg"
 ---
 
 
