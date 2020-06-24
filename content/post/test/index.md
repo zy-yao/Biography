@@ -1,13 +1,13 @@
 ---
-title: test
-subtitle: test 2
-date: 2020-06-24T13:15:20.467Z
-summary: "222"
+title: Ranked top 10 in HK (6.2%) in EY Data Science Competition, "Smart City".
+subtitle: ""
+date: 2019-06-05T13:15:20.467Z
+summary: ""
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-222
+This competition's goal is to predict the vehicle location in the city of Atlanta by using systematic data mining and processing ideas.
