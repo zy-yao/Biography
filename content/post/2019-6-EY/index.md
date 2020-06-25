@@ -43,9 +43,12 @@ the city center or not. The target variable is the latter. Here is a graphic exa
 ![](city_center.png)
 
 After we estimate the position of each target, we need to classify that point based on
-whether it is located inside the city center or not.
+whether it is located inside the city center or not. The limits of the city center of Atlanta are 3750901.5068 ≤ 𝑥 ≤ 3770901.5068, −19268905.6133 ≤ 𝑦 ≤ −19208905.6133. 
 
+Then we will need to classify each of the exit points whether they are within (1) or outside (0) the
+limits of the city center. Some trajectories may “cross” the city center, but their exit point will be outside the city center. These cases can be considered outside the center.
 
+Our results are reuired in the following format: trajectory_id; city_center. Finally, we find this task is a typical classification case in supervised learning.
 
 
 
