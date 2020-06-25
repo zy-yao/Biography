@@ -70,7 +70,7 @@ At the analysis layer, we find that there is **a magic relation** between the ex
 
 We separate the dataset as 90% training dataset and 10% testing dataset. To compare with former separation, we also separate the dataset as 80% training dataset and 20% testing dataset and use them to train a C4.5 decision tree model. We find that former separation performs better than the latter.
 
-Then we use XGBoost, SVR, and XGboost_Optimiser as the model. Accuracy, precision, recall, F-1, and MCC are the evaluation offline. Here are some [***experience*** ](https://dingby.site/2018/03/07/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%80%A7%E8%83%BD%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87/)and **[*insights* ](https://www.pluralsight.com/guides/evaluating-a-data-mining-model)**on how to chose evaluations in machine learning tasks.
+Then we use XGBoost, SVR, and XGboost_Optimiser as the model. Accuracy, precision, recall, F-1, and MCC are the evaluation offline. Here are some [***experience*** ](https://dingby.site/2018/03/07/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%80%A7%E8%83%BD%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87/)and [***insights***](https://www.pluralsight.com/guides/evaluating-a-data-mining-model) on how to chose evaluations in machine learning tasks.
 
 Submissions are evaluated using the F1-score. We may see the results below.
 
