@@ -90,4 +90,4 @@ Today is a big data era. Data is just like an iceberg, what we can see is just a
 
 ![](power_data.png)
 
-Thanks for [**EY** ](https://www.ey.com/en_cn)holding this meaningful competition of data mining. I am really enjoying it and hope more people join in kinda competitions to find the power of data, and big-data.
+Thanks for [**EY** ](https://www.ey.com/en_cn)holding this meaningful competition of data mining. I am really enjoying it and hope more people join in kinda competitions to find the power of data, and even big-data.
