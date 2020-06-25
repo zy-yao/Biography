@@ -48,13 +48,37 @@ whether it is located inside the city center or not. The limits of the city cent
 Then we will need to classify each of the exit points whether they are within (1) or outside (0) the
 limits of the city center. Some trajectories may “cross” the city center, but their exit point will be outside the city center. These cases can be considered outside the center.
 
-Our results are reuired in the following format: trajectory_id; city_center. Finally, we find this task is a typical classification case in supervised learning.
+Our results are required in the following format: trajectory_id; city_center. Finally, we find this task is a typical classification case in supervised learning. So, our goal is to train some models to classify these devices.
 
 
 
 ### 2.Methodology
 
-#### 2.2 Data Preprocess
+Our method follows the systematic data mining structure. As we can see here, there are 4 layers. The data layer contains the source data. 
+
+![](methods.png)
+
+And we did the process data in Preprocess Layer. Then we extract some new features and construct the model.
+
+#### 2.1 Data Preprocess
+
+Generally, data preprocess includes data cleaning, data integration, data reduction, and data transformation. **Here are some specifications:** ***[\[1]](https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c), [\[2]](https://zhuanlan.zhihu.com/p/51131210), [\[3]](https://en.wikipedia.org/wiki/Data_pre-processing)***.
+
+Specifically, at Preprocess Layer, we compute the missing value of each column in source data and we find there are too many missing values in the three velocity columns, over 60% here. But, without these, the model performance is also good so we just delete them.
+
+#### 2.2 Modelling
+
+At the analysis layer, we find that there is **a magic relation** between the exact Time and position, that is when the entry time and exit time of one car are the same, the xy exit values are equal to the xy entry position. And we use this finding to add missing values of xy entry position. And the added part weights around 40%.
+
+We separate the dataset as 90% training dataset and 10% testing dataset. To compare with former separation, we also separate the dataset as 80% training dataset and 20% testing dataset and use them to train a C4.5 decision tree model. We find that former separation performs better than the latter.
+
+Then we use XGBoost, SVR, and XGboost_Optimiser as the model. Accuracy, precision, recall, F-1, and MCC are the evaluation offline. Here are some [***experience*** ](https://dingby.site/2018/03/07/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%80%A7%E8%83%BD%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87/)and **[*insights* ](https://www.pluralsight.com/guides/evaluating-a-data-mining-model)**on how to chose evaluations in machine learning tasks.
+
+Submissions are evaluated using the F1-score. We may see the results below.
+
+
+
+![](result.png)
 
 ### 3.Prospect
 
