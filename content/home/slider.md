@@ -30,9 +30,9 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  cta_label = ":checkered_flag:Latest Data Mining Competetion"
+  cta_label = ":triangular_flag_on_post:Latest Data Mining Competetion" #:checkered_flag:
   cta_url = "https://www.zhongyu.site/post/2019-6-ey/"
-  cta_icon_pack = "" #"fas"
+  cta_icon_pack = "" #"fas" 
   cta_icon = "" #"flag-checkered"
 
 [[item]]
