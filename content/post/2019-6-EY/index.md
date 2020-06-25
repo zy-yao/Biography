@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-EY NextWave Data Science competition 2019 focuses on how data can help the next smart city thrive, and boost the mobility of the future.  In this competition, systematic data mining and processing ideas are used here. I am glad to share them.
+**[EY NextWave Data Science competition 2019](https://www.ey.com/gl/en/careers/students/ey-data-science-challenge)** focuses on how data can help the next smart city thrive, and boost the mobility of the future.  In this competition, systematic data mining and processing ideas are used here. I am glad to share them.
 
 ### 1.Understand the problem
 
@@ -81,3 +81,13 @@ Submissions are evaluated using the F1-score. We may see the results below.
 In the future, we may consider finding more hidden but efficient features, trying more advanced and proper models (Neural Network, AdaBoostClassifier...) to achieve better performance. 
 
 Hopefully, our work could inspire solutions that help city authorities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order that cities as smart as their citizens.
+
+
+
+### PS: 
+
+Today is a big data era. Data is just like an iceberg, what we can see is just a small piece, however, there is pretty large valuable information behind them.
+
+![](power_data.png)
+
+Thanks for [**EY** ](https://www.ey.com/en_cn)holding this meaningful competition of data minig. I am really enjoying it and hope more people join in kinda competition to find the power of data, even big-data.
