@@ -3,7 +3,7 @@ title: EY Data Science Competition, "Smart City"
 date: 2019-06-02T15:06:32.680Z
 draft: false
 featured: false
-external_link: --
+external_link: https://www.zhongyu.site/post/2019-6-ey/
 links:
   - url: https://www.ey.com/gl/en/careers/students/ey-data-science-challenge
     name: Introduction to the competition
