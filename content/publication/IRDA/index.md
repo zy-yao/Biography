@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IRDA"
-authors: []
+title: "IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation."
+authors: ["Jia Wang, Jiannong Cao, Senzhang Wang, **Zhongyu Yao**, and Wengen Li (2020)."]
 date: 2020-06-25T16:22:18+08:00
 doi: ""
 
@@ -16,8 +16,8 @@ publishDate: 2020-06-25T16:22:18+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Jia Wang, Jiannong Cao, Senzhang Wang, **Zhongyu Yao**, and Wengen Li (2020). IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation. IEEE Trans. Big Data"
-publication_short: ""
+publication: "IEEE Transactions on Big Data, 2020"
+publication_short: "IEEE Trans. Big Data"
 
 abstract: ""
 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Big-Arm]
+projects: [Big-data-driven Airport Resource Management Engine]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
