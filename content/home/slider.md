@@ -36,20 +36,20 @@ height = ""
   cta_icon = "flag-checkered"
 
 [[item]]
-  title = "Trilakṣaṇā dharmamudrā"
-  content = "       --Saṃyukta Āgama"
+  title = ""
+  content = "Trilakṣaṇā dharmamudrā  --Saṃyukta Āgama"
   align = "center"
 
-  overlay_color = ""  # An HTML color value.#555
+  overlay_color = "#555"  # An HTML color value.
   overlay_img = "white-DNA.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Cogito ergo sum"
-  content = "    --René Descartes"
+  title = ""
+  content = "Cogito ergo sum  --René Descartes"
   align = "center"
 
-  overlay_color = ""  # An HTML color value.#333
+  overlay_color = "#333"  # An HTML color value.
   overlay_img = "blue-brain2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
