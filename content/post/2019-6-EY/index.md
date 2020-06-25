@@ -56,9 +56,9 @@ Our results are required in the following format: trajectory_id; city_center. Fi
 
 Our method follows the systematic data mining structure. As we can see here, there are 4 layers. The data layer contains the source data. 
 
-![](methods.png)
+![](methods_2.png)
 
-And we did the process data in Preprocess Layer. Then we extract some new features and construct the model.
+And we process data in *Preprocess Layer*. Then we extract some new features in *Analysis Layer* and construct the models in *Modelling Layer*.
 
 #### 2.1 Data Preprocess
 
