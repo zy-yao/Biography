@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation."
+title: "A Big-data-driven Airport Resource Management Engine and Application Tools."
 authors: [Ka Ho Wong, Jiannong Cao, Yu Yang, Wengen Li, Jia Wang,Zhongyu Yao, Suyan Xu, Esther Ahn Chian Ku, Chun On Wong, and David Leung (2020)]
 date: 2020-02-14T16:22:18+08:00
 doi: ""
