@@ -55,14 +55,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/zy-yao
-# Linkedin
-- icon: linkedin-in
-  icon_pack: fab
-  link: https://www.linkedin.com/in/frank-yao-59ab61151/
 
 - icon: skype
   icon_pack: fab
-  link: skype:frankyao7?call
+  link: skype:live:frankyao7?call
 
 # Linkedin
 - icon: linkedin-in
