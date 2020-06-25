@@ -1,5 +1,7 @@
 ---
-title: The 15th National College Student “Challenge Cup” Contest
+title: Big data analysis system for passenger flow of Guangzhou Baiyun Airport
+subtitle: "(Provincial-level, 10%) 2nd Prize in 15th National College Student
+  “Challenge Cup” Contest "
 date: 2020-06-25T07:38:56.000Z
 summary: "![](challenge_cup.png)"
 draft: false
