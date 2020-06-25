@@ -37,7 +37,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "Trilakṣaṇā dharmamudrā  --Saṃyukta Āgama"
+  content = "**Trilakṣaṇā dharmamudrā**  ----Saṃyukta Āgama"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -46,7 +46,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "Cogito ergo sum  --René Descartes"
+  content = "**Cogito ergo sum**  ----René Descartes"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
