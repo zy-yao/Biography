@@ -60,7 +60,7 @@ And we did the process data in Preprocess Layer. Then we extract some new featur
 
 #### 2.1 Data Preprocess
 
-Generally, data preprocess includes data cleaning, data integration, data reduction, and data transformation. **Here are some specifications:** ***\[[1]](https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c), \[[2]](https://zhuanlan.zhihu.com/p/51131210), \[[3]](https://en.wikipedia.org/wiki/Data_pre-processing)***.
+Generally, data preprocess includes data cleaning, data integration, data reduction, and data transformation. **Here are some specifications:** ***[one](https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c)***, ***[two](https://zhuanlan.zhihu.com/p/51131210)***, ***[three](https://en.wikipedia.org/wiki/Data_pre-processing)***.
 
 Specifically, at Preprocess Layer, we compute the missing value of each column in source data and we find there are too many missing values in the three velocity columns, over 60% here. But, without these, the model performance is also good so we just delete them.
 
