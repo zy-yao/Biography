@@ -50,8 +50,6 @@ limits of the city center. Some trajectories may “cross” the city center, bu
 
 Our results are required in the following format: trajectory_id; city_center. Finally, we find this task is a typical classification case in supervised learning. So, our goal is to train some models to classify these devices.
 
-
-
 ### 2.Methodology
 
 Our method follows the systematic data mining structure. As we can see here, there are 4 layers. The data layer contains the source data. 
@@ -62,7 +60,7 @@ And we did the process data in Preprocess Layer. Then we extract some new featur
 
 #### 2.1 Data Preprocess
 
-Generally, data preprocess includes data cleaning, data integration, data reduction, and data transformation. **Here are some specifications:** ***[\[1]](https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c), [\[2]](https://zhuanlan.zhihu.com/p/51131210), [\[3]](https://en.wikipedia.org/wiki/Data_pre-processing)***.
+Generally, data preprocess includes data cleaning, data integration, data reduction, and data transformation. **Here are some specifications:** ***\[[1]](https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c), \[[2]](https://zhuanlan.zhihu.com/p/51131210), \[[3]](https://en.wikipedia.org/wiki/Data_pre-processing)***.
 
 Specifically, at Preprocess Layer, we compute the missing value of each column in source data and we find there are too many missing values in the three velocity columns, over 60% here. But, without these, the model performance is also good so we just delete them.
 
@@ -76,10 +74,10 @@ Then we use XGBoost, SVR, and XGboost_Optimiser as the model. Accuracy, precisio
 
 Submissions are evaluated using the F1-score. We may see the results below.
 
-
-
 ![](result.png)
 
 ### 3.Prospect
+
+In the future, we may consider finding more hidden but efficient features, trying more advanced and proper models (Neural Network, AdaBoostClassifier...) to achieve better performance. 
 
 Hopefully, our work could inspire solutions that help city authorities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order that cities as smart as their citizens.
