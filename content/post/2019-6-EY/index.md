@@ -17,8 +17,12 @@ Our task is to produce a model that helps authorities to understand the journeys
 
 Specifically, this competition's goal is to predict the location of this last exit point and whether this device is within the city center or not. Systematic data mining and processing ideas are used here. I am glad to share them.
 
-## Understand the problem
+### 1.Understand the problem
 
-## Methodology
-### Data Preprocess
+![](trajectory_of_vehicles.png "trajectory of a vehicle")
 
+### 2.Methodology
+
+#### 2.2 Data Preprocess
+
+### 3.Prospect
