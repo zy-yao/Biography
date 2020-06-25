@@ -1,12 +1,9 @@
 ---
 title: Big data analysis system for passenger flow of Guangzhou Baiyun Airport
-subtitle: "(Provincial-level, 10%) 2nd Prize in 15th National College Student
-  “Challenge Cup” Contest "
+subtitle: ""
 date: 2017-06-01T07:38:56.000Z
-summary: |-
-  
-
-  ![]()
+summary: (Provincial-level, 10%) 2nd Prize in 15th National College Student
+  “Challenge Cup” Contest
 draft: false
 featured: false
 external_link: --
