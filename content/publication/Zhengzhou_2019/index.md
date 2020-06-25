@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Sequential Attention Based Convolutional Neural Network for Anomaly Detection."
-authors: [LI Yuan，WANG Guoyin，LI Zhixing，WANG Huaming，ZHOU Zheng，YAO Zhongyu，LIANG Xinyuan (2020).]
+authors: [LI Yuan，WANG Guoyin，LI Zhixing，WANG Huaming，ZHOU Zheng，YAO Zhongyu，LIANG Xinyuan (2019).]
 date: 2019-02-25T16:22:18+08:00
 doi: ""
 
