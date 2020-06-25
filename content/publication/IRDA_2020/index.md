@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation."
-authors: ["Jia Wang, Jiannong Cao, Senzhang Wang, **Zhongyu Yao**, and Wengen Li (2020)."]
+authors: [Jia Wang, Jiannong Cao, Senzhang Wang, **Zhongyu Yao**, and Wengen Li (2020).]
 date: 2020-06-25T16:22:18+08:00
 doi: ""
 
