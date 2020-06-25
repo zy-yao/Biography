@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: --
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: --
+url_slides: 
 url_source:
 url_video:
 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Big-data-driven Airport Resource Management Engine]
+projects: ["Big-data-driven Airport Resource Management Engine"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
