@@ -18,4 +18,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The system can target abnormal real-time or predicted flow distribution, giving rational advice to the airport and presenting users the flow distribution of airport at different time clearly. As the captain, I controlled the work progress, coordinated team members, and held monthly meetings with professors to provide optimization suggestions.
+The system can target abnormal real-time or predicted flow distribution, giving rational advice to the airport and presenting users the flow distribution of airport at different time clearly. As the captain, I controlled the work progress, coordinated team members, and held monthly meetings with professors to provide suggestions of optimization.
