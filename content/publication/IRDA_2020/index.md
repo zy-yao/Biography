@@ -76,4 +76,4 @@ efficiency, we partition the whole historical allocation big dataset into multi-
 learning on the next batch dataset, so as to incrementally learn from multi-batch datasets and improve the allocation strategy. We apply
 the proposed method to handle baggage carousel allocation at Hong Kong International Airport (HKIA). The experimental results show
 that IRDA is capable of incrementally learning from multi-batch datasets, and improves the baggage carousel resource utilization by
-around 51:86% compared to the current baggage carousel allocation system at HKIA.
+around 51.86% compared to the current baggage carousel allocation system at HKIA.
