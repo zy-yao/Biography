@@ -31,7 +31,7 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
   cta_label = "See my latest Competetion of Data Science "
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "https://www.zhongyu.site/post/2019-6-ey/"
   cta_icon_pack = "fas"
   cta_icon = "flag-checkered"
 
