@@ -30,14 +30,14 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  cta_label = "See my latest competetion of Data Science "
+  cta_label = "My Latest Data Mining Competetion"
   cta_url = "https://www.zhongyu.site/post/2019-6-ey/"
   cta_icon_pack = "fas"
   cta_icon = "flag-checkered"
 
 [[item]]
   title = ""
-  content = "**Trilakṣaṇā dharmamudrā**  ----Saṃyukta Āgama"
+  content = "**Trilakṣaṇā dharmamudrā**  --- Saṃyukta Āgama"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -46,7 +46,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "**Cogito ergo sum**  ----René Descartes"
+  content = "**Cogito ergo sum**  --- René Descartes"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
