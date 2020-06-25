@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true #false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -49,8 +49,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "The overview of the proposed incremental reinforcement learning method"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -67,3 +67,13 @@ projects: ["Big-data-driven Airport Resource Management Engine"]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+We mine the task patterns from the large volume of historical allocation data and propose a
+reinforcement learning model termed IRDA to learn the allocation strategy in an incremental way. We observe that historical allocation
+data is usually generated from the daily repeated operations, which is not independent and identically distributed. Training with partial of
+this dataset can make the allocation strategy converged already, thereby wasting a lot of remaining data. To improve the learning
+efficiency, we partition the whole historical allocation big dataset into multi-batch datasets, which forces the agent to continuously
+“explore” and learn on the distinct state spaces. IRDA reuses the strategy learned from the previous batch dataset and adapts it to the
+learning on the next batch dataset, so as to incrementally learn from multi-batch datasets and improve the allocation strategy. We apply
+the proposed method to handle baggage carousel allocation at Hong Kong International Airport (HKIA). The experimental results show
+that IRDA is capable of incrementally learning from multi-batch datasets, and improves the baggage carousel resource utilization by
+around 51:86% compared to the current baggage carousel allocation system at HKIA.
