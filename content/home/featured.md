@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = "Module is under upgrading, \n coming soon"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
