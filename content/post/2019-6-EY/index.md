@@ -11,4 +11,14 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-This competition's goal is to predict the vehicle location in the city of Atlanta by using systematic data mining and processing ideas.
+The EY NextWave Data Science Challenge 2019 focuses on how data can help the next smart city thrive, and boost the mobility of the future. 
+
+Our task is to produce a model that helps authorities to understand the journeys of citizens while they move in the city throughout the day. Hopefully, our work could inspire solutions that help city authorities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order that cities as smart as their citizens.
+
+Specifically, this competition's goal is to predict the location of this last exit point and whether this device is within the city center or not. Systematic data mining and processing ideas are used here. I am glad to share them.
+
+## Understand the problem
+
+## Methodology
+### Data Preprocess
+
