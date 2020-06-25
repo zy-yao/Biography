@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: featured #Publications
 
 # View.
 #   1 = List
