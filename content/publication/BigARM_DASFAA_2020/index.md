@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true #false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
