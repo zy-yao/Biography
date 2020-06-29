@@ -40,7 +40,7 @@ url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
 url_source: https://www.lscm.hk/eng/project.php?detail_id=154
 url_video: https://www4.comp.polyu.edu.hk/~labimcl/bigarm.html
