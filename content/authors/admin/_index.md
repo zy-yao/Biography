@@ -9,7 +9,8 @@ authors:
   - admin
 title: Zhongyu YAO
 role: RA of Computer Science
-bio: My name is Zhongyu Yao(姚钟毓 in Chinese). I am always glad to listening to interesting ideas.
+bio: My name is Zhongyu Yao(姚钟毓 in Chinese). I am always glad to listening to
+  interesting ideas.
 interests:
   - Applied machine learning
   - Reinforcement learning
@@ -44,7 +45,8 @@ education:
       institution: The University of California, Irvine
       year: 2016
     - course: B.Eng in Computer Science
-      institution: Chongqing University of Posts and Telecommunications
+      institution: Elite Class of Outstanding Engineers Program, Chongqing University
+        of Posts and Telecommunications
       year: 2014-2018
 email: ""
 user_groups:
