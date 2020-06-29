@@ -41,7 +41,7 @@ education:
     - course: MSC in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
-    - course: Visiting Student in CS
+    - course: Visiting Student
       institution: The University of California, Irvine
       year: 2016
     - course: B.Eng in Computer Science
