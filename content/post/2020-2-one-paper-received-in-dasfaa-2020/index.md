@@ -8,6 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This is a Demo paper. In this demo, we showcase our research in big data analytics for resource management.
+Our paper, *A Big-data-driven Airport Resource Management Engine and Application Tools*, is accepted in DASFAA 2020. This is a Demo paper. In this paper, we showcase our research in big data analytics for resource management.
 
 Please click [HERE](https://www.zhongyu.site/publication/bigarm_dasfaa_2020/ "A Big-data-driven Airport Resource Management Engine and Application Tools.") for more details.
