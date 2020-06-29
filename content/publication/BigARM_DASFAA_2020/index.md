@@ -42,8 +42,8 @@ url_dataset:
 url_poster:
 url_project:
 url_slides: 
-url_source:
-url_video:
+url_source: https://www.lscm.hk/eng/project.php?detail_id=154
+url_video: https://www4.comp.polyu.edu.hk/~labimcl/bigarm.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
