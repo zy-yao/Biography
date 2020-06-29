@@ -4,7 +4,7 @@
 title: "A Sequential Attention Based Convolutional Neural Network for Anomaly Detection."
 authors: [LI Yuan，WANG Guoyin，LI Zhixing，WANG Huaming，ZHOU Zheng，YAO Zhongyu，LIANG Xinyuan (2019).]
 date: 2019-02-25T16:22:18+08:00
-doi: ""
+doi: "10.13705/j.issn.1671-6841.2018149"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-25T16:22:18+08:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: http://kdoc.cnki.net/kdoc/download.aspx?filename=EN5oEa0JETyI3NYR1SWVWRpZTYG12ahV1LOJTQix0Q4EFdoFWWzI0TIpHdsN1VlVjY0Q1dBlXWmhEc=0TQil3V5dDN5UHcTt2VjJ0LXdXbyJzdy8iTSp1Kjp2V5B3Zy9yL3BXQCpUVCpHMJNHTYp3VmFnUn5&tablename=CJFDLAST2019&dflag=pdfdown
 url_code:
 url_dataset:
 url_poster:
