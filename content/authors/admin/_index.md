@@ -45,8 +45,7 @@ education:
       institution: The University of California, Irvine
       year: 2016
     - course: B.Eng in Computer Science
-      institution: Elite Class of Outstanding Engineers Program, Chongqing University
-        of Posts and Telecommunications
+      institution: Elite Class of Outstanding Engineers Program, CQUPT
       year: 2014-2018
 email: ""
 user_groups:
