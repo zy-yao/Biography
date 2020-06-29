@@ -9,8 +9,7 @@ authors:
   - admin
 title: Zhongyu YAO
 role: RA of Computer Science
-bio: My name is Zhongyu Yao(姚钟毓 in Chinese). My research interests include
-  machine learning and data mining.
+bio: My name is Zhongyu Yao(姚钟毓 in Chinese). I am always glad to listening to interesting ideas.
 interests:
   - Applied machine learning
   - Reinforcement learning
