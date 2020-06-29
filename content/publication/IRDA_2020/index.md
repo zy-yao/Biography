@@ -4,7 +4,7 @@
 title: "IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation."
 authors: [Jia Wang, Jiannong Cao, Senzhang Wang, Zhongyu Yao, and Wengen Li (2020).]
 date: 2020-06-25T16:22:18+08:00
-doi: ""
+doi: "10.1109/TBDATA.2020.2988273"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-25T16:22:18+08:00
@@ -36,13 +36,13 @@ featured: true #false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9072494
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides: 
-url_source:
+url_source: https://ieeexplore.ieee.org/document/9072494
 url_video:
 
 # Featured image
