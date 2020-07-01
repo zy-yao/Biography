@@ -3,7 +3,7 @@ title: Clothes Matching on Taobao
 date: 2018-06-03T16:40:46.169Z
 draft: false
 featured: false
-external_link: https://github.com/zy-yao/Clothes-Matching-on-Taobao
+external_link: --
 links:
   - url: https://tianchi.aliyun.com/competition/entrance/231575/introduction
     name: "Introduction to the competition "
