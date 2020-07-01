@@ -6,7 +6,7 @@ summary: (Provincial-level, 10%) 2nd Prize in 15th National College Student
   “Challenge Cup” Contest
 draft: false
 featured: false
-external_link: https://github.com/zy-yao/Biography/blob/master/content/project/Big%20data%20analysis%20system%20for%20passenger%20flow%20of%20Guangzhou%20Baiyun%20Airport/Bigdata_analysis_system_for_passenger_flow_of_Guangzhou_Baiyun_Airport.pdf
+external_link: https://www.zhongyu.site/files/Bigdata_analysis_system_for_passenger_flow_of_Guangzhou_Baiyun_Airport.pdf
 links:
   - url: http://www.tiaozhanbei.net/focus
     name: Introduction to the competition
