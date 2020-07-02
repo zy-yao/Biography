@@ -19,8 +19,6 @@
   - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
   - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
 ## Install
 
 You can choose from one of the following four methods to install:
