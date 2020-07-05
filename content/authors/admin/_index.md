@@ -29,7 +29,7 @@ social:
     link: https://github.com/zy-yao
   - icon: linkedin-in
     icon_pack: fab
-    link: https://www.linkedin.com/in/frank-yao-59ab61151/
+    link: https://www.linkedin.com/in/zhongyu-frank-yao-59ab61151/
   - icon: skype
     icon_pack: fab
     link: skype:live:frankyao7?call
