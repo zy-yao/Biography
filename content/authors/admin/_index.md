@@ -23,7 +23,7 @@ social:
     link: mailto:frank7.yao@connect.polyu.hk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Twitter
+    link: https://twitter.com/Wood89606645
   - icon: github
     icon_pack: fab
     link: https://github.com/zy-yao
