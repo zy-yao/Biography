@@ -1,5 +1,5 @@
 ---
-title: "2019.02: One paper received in Journal of Zhengzhou University (Natural
+title: "2019.02: One paper published in Journal of Zhengzhou University (Natural
   Science Edition)"
 subtitle: A Sequential Attention Based Convolutional Neural Network for Anomaly
   Detection.
