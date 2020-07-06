@@ -7,7 +7,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Zhongyu YAO
+title: Zhongyu YAO, Frank
 role: RA of Computer Science
 bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listening to
   interesting ideas.
