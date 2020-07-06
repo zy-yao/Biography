@@ -9,7 +9,7 @@ authors:
   - admin
 title: Zhongyu YAO, Frank
 role: RA of Computer Science
-bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listening to
+bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen to
   interesting ideas.
 interests:
   - Applied machine learning
