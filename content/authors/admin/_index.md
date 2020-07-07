@@ -54,4 +54,4 @@ user_groups:
 ---
 I am Zhong-Yu YAO (**姚钟毓** in Chinese). I just received M.Sc. from dept. of Computing, the Hong Kong Polytechnic University, and work as a research assistant there. I have a strong passion for machine learning/data mining-related R&D. So, I joined in many data mining competitions and got good rankings. These competitions also provide me with hands-on experience in **Python**, **C**, **Java** programming. Besides, knowing the truth/origin of life and helping others also always attract me. To combine my interests and abilities, I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
 ****
-Always open to interesting ideas
+Always open to interesting ideas.
