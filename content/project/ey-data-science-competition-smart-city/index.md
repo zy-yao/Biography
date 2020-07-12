@@ -9,6 +9,8 @@ links:
     name: Introduction to the competition
   - url: https://www.ey.com/en_gl/careers/nextwave-data-science-challenge#accordion-content-730970478-0
     name: "My Ranking (Name: Zhongyu Yao)"
+  - url: https://github.com/zy-yao/EY-NextWave-Data-Science-Challenge-2019
+    name: Source code
 image:
   filename: ey2.png
   focal_point: Smart
