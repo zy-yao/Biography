@@ -14,7 +14,7 @@ image:
 ![](ranking.jpg)
 
 **[EY NextWave Data Science competition 2019](https://www.ey.com/gl/en/careers/students/ey-data-science-challenge)** focuses on how data can help the next smart city thrive, and boost the mobility of the future.  In this competition, systematic data mining and processing ideas are used. I am glad to share them. 
-[HERE](https://github.com/zy-yao/EY-NextWave-Data-Science-Challenge-2019 'Github') are my source code.
+[HERE](https://github.com/zy-yao/EY-NextWave-Data-Science-Challenge-2019 'Github') is my source code.
 
 ### 1.Understand the problem
 
