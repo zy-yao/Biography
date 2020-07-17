@@ -56,6 +56,6 @@ I am Zhong-Yu YAO (**姚钟毓** in Chinese). I work as a research assistant at 
 
 Besides, knowing the truth/origin of life and helping others also always attract me.
 
-I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
+I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **deep** **learning**, **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
 ****
 Always open to interesting ideas.
