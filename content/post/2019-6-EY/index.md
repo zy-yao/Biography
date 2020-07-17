@@ -87,7 +87,7 @@ Hopefully, our work could inspire solutions that help city authorities anticipat
 
 ### PS:
 
-Today is a big data era. Data is just like an iceberg, what we can see is just a small piece, however, there is pretty large valuable information behind them.
+Today is a big data era. Data is just like an iceberg, what we can see is just a small piece, however, there is pretty large valuable information behind them. It is urgent to use CS-related knowledge/research to decipher them.
 
 ![](power_data.png)
 
