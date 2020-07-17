@@ -14,6 +14,7 @@ bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen t
 interests:
   - Applied machine learning
   - Reinforcement learning
+  - Deep Learning
   - Auto ML
   - Explainable AI
   - Bioinformatics
