@@ -31,12 +31,13 @@ date_format = "Jan 2006"
   * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like reinforcement learning
   * Design prototypes for performance evaluation of components and for big data programming models and their context links
   * Conduct research works, including reviewing the literature, abstracting projects and writing papers
-  """
+  
 # Responsibilities include:
-
+  """
 # * Analysing
 # * Modelling
 # * Deploying
+  """
 
 [[experience]]
   title = "Director Assistant Intern"
@@ -62,7 +63,6 @@ date_format = "Jan 2006"
   * Polish design logic of the new system
   * Teach the corporate customers to operate in implementation phase of the system
   * Received approval from the whole team and got a recommend letter from the project manager of Deloitte
-  """
 
 [[experience]]
   title = "Teacher Assistant"
@@ -77,6 +77,6 @@ date_format = "Jan 2006"
   * Administrated daily class work. Planned and organized activities between college and classes, such as promotion of exchange students program, friendship activities between classes (over 100 people), sports activities, etc
   * Tutored students English. Students examination scores improved a lot and most of them passed the CET4 after coach
 
-  """
+
 
 +++
