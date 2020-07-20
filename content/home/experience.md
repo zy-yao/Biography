@@ -62,7 +62,20 @@ date_format = "Jan 2006"
   * Polish design logic of the new system
   * Teach the corporate customers to operate in implementation phase of the system
   * Received approval from the whole team and got a recommend letter from the project manager of Deloitte
+  """
 
+[[experience]]
+  title = "Teacher Assistant"
+  company = "School of Computer Science and Technology, CQUPT"
+  company_url = "http://cs.cqupt.edu.cn/ywjj.htm"
+  location = "Chongqing, China"
+  date_start = "2016-09-01"
+  date_end = "2017-07-01"
+  description = """
+  Experience include:
+
+  * Administrated daily class work. Planned and organized activities between college and classes, such as promotion of exchange students program, friendship activities between classes (over 100 people), sports activities, etc
+  * Tutored students English. Students examination scores improved a lot and most of them passed the CET4 after coach
 
   """
 
