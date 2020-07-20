@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 # * Analysing
 # * Modelling
 # * Deploying
-  """
+
 
 [[experience]]
   title = "Director Assistant Intern"
