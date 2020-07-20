@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like deep learning
-  * Design prototypes for performance evaluation of components and for big data programming models and context links
-  * Cooperate with colleagues in range wide of works, including system deployment and thesis writing
+  * Develop the back-end of big data-driven system with state-of-art machine learning algorithms, like reinforcement learning
+  * Design prototypes for performance evaluation of components and for big data programming models and their context links
+  * Conduct research works, including reviewing the literature, abstracting projects and writing papers
   """
 # Responsibilities include:
 
@@ -59,9 +59,22 @@ date_format = "Jan 2006"
   Experience include:
 
   * Familiar with the business logic and operation of EWM module in SAP system within one month
-  * Assist colleagues in different tasks and improving new system
-  * Teach the corporate customers to operate new system in implementation phase of the system
+  * Polish design logic of the new system
+  * Teach the corporate customers to operate in implementation phase of the system
   * Received approval from the whole team and got a recommend letter from the project manager of Deloitte
+
+[[experience]]
+  title = "Teacher Assistant"
+  company = "School of Computer Science and Technology, CQUPT"
+  company_url = "http://cs.cqupt.edu.cn/ywjj.htm"
+  location = "Chongqing, China"
+  date_start = "2016-09-01"
+  date_end = "2017-07-01"
+  description = """
+  Experience include:
+
+  * Administrated daily class work. Planned and organized activities between college and classes, such as promotion of exchange students program, friendship activities between classes (over 100 people), sports activities, etc
+  * Tutored students English. Students examination scores improved a lot and most of them passed the CET4 after coach
 
   """
 
