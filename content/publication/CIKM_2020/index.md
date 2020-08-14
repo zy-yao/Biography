@@ -16,7 +16,7 @@ publishDate: 2020-07-25T16:22:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT"
+publication: "29th ACM International Conference On Information and Knowledge Management (CIKM 2020)"
 publication_short: "CIKM 2020"
 
 abstract: ""
