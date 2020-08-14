@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Recursive Balanced k-Subset Sum Partition for Rule-constrained Resource Allocation."
-authors: [Zhuo Li，Jiannong Cao，Zhongyu Yao (2020).]
+authors: [Zhuo Li, Jiannong Cao, Zhongyu Yao (2020).]
 date: 2020-07-25T16:22:18+08:00
 # doi: "-"
 
