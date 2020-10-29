@@ -107,9 +107,7 @@ phone = "+852-27667902"
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "PQ702, Mong Man Wai Building, 
-
-The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong"
+directions = "PQ702, Mong Man Wai Building, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
