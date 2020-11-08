@@ -55,8 +55,10 @@ user_groups:
 ---
 I am Zhong-Yu YAO (**姚钟毓** in Chinese). I work as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Internet and Mobile Computing Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
 
-I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life and helping others also always attract me.
+I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life also always attracts me.
 
 I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **deep** **learning**, **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
-****
+
+- - -
+
 Always open to interesting ideas.
