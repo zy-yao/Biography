@@ -4,7 +4,7 @@
 title: "A Big-data-driven Airport Resource Management Engine and Application Tools."
 authors: [Ka Ho Wong, Jiannong Cao, Yu Yang, Wengen Li, Jia Wang,Zhongyu Yao, Suyan Xu, Esther Ahn Chian Ku, Chun On Wong, and David Leung (2020)]
 date: 2020-02-14T16:22:18+08:00
-doi: https://link.springer.com/chapter/10.1007%2F978-3-030-59419-0_48
+doi: "10.1007%2F978-3-030-59419-0_48"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-25T16:22:18+08:00
