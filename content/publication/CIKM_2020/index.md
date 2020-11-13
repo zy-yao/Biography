@@ -36,14 +36,14 @@ featured: true #false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://dl.acm.org/doi/10.1145/3340531.3412076
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides: 
 url_source: 
-url_video:
+url_video: https://acm-prod-cdn.literatumonline.com/3340531.3412076/3c0b2068-8f6d-4e70-8454-8d8d39bf502f/3340531.3412076.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e3e3538303cb00a09ca761dfae12dc16f8c9129c9c98baee830c41a3e805e859c6ee2ef344241c8f41f08bf3e3347c4fb8efc5ca49312bd7bac3218cc684c1d1fa3bf2f9762a82
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
