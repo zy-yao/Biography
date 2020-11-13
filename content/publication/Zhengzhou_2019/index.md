@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://kdoc.cnki.net/kdoc/download.aspx?filename=EN5oEa0JETyI3NYR1SWVWRpZTYG12ahV1LOJTQix0Q4EFdoFWWzI0TIpHdsN1VlVjY0Q1dBlXWmhEc=0TQil3V5dDN5UHcTt2VjJ0LXdXbyJzdy8iTSp1Kjp2V5B3Zy9yL3BXQCpUVCpHMJNHTYp3VmFnUn5&tablename=CJFDLAST2019&dflag=pdfdown
+url_pdf: https://www.cnki.net/kcms/download.aspx?filename=2NnZEhEZVhmauFWe210NPN3UkRUazMUUQlUOI9WcqNjewx2TrNUMSFTazdzTRlkeLFDajRmUPx2R2pHTiB3NCtSeDJkUUR2Sl5EOkFFWzBTSDBnc2o0aYRDdwcHdFtGN0o2T28kULhUVGR0T30WOLx0RJREWERFW&tablename=CJFDLAST2019&dflag=pdfdown
 url_code:
 url_dataset:
 url_poster:
