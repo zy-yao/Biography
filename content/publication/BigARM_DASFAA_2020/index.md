@@ -36,7 +36,7 @@ featured: true #false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-59419-0_48
 url_code:
 url_dataset:
 url_poster:
