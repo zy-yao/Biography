@@ -4,7 +4,7 @@
 title: "Recursive Balanced k-Subset Sum Partition for Rule-constrained Resource Allocation."
 authors: [Zhuo Li, Jiannong Cao, Zhongyu Yao (2020).]
 date: 2020-07-25T16:22:18+08:00
-doi: https://dl.acm.org/doi/10.1145/3340531.3412076
+doi: "10.1145/3340531.3412076"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T16:22:18+08:00
