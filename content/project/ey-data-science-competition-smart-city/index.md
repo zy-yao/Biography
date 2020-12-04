@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://www.zhongyu.site/post/2019-6-ey/
 links:
-  - url: https://www.ey.com/gl/en/careers/students/ey-data-science-challenge
+  - url: https://www.ey.com/en_gl/news/2019/06/ey-announces-winners-of-ey-nextwave-global-data-science-challenge-launched-to-connect-stem-students-worldwide
     name: Introduction to the competition
   - url: https://www.ey.com/en_gl/careers/nextwave-data-science-challenge#accordion-content-730970478-0
     name: "My Ranking (Name: Zhongyu Yao)"
