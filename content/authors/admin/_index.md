@@ -12,12 +12,13 @@ role: RA of Computer Science
 bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen to
   interesting ideas.
 interests:
-  - Applied machine learning
+  - Graph neural networks
   - Reinforcement learning
   - Deep Learning
   - Auto ML
   - Explainable AI
-  - Bioinformatics
+  - Bioinformatic
+  - Applied machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -57,7 +58,7 @@ I am Zhong-Yu YAO (**姚钟毓** in Chinese). I work as a research assistant at 
 
 I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life also always attracts me.
 
-I mainly focus on **applied** **machine** **learning**, **reinforcement** **learning**,  **deep** **learning**, **auto** **ML**, **explainable** **AI**, and **bioinformatics**.
+I mainly focus on **graph** **neural** **networks**, **reinforcement** **learning**, and **bioinformatics**.
 
 - - -
 
