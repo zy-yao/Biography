@@ -41,7 +41,7 @@ social:
     link: files/cv.pdf
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: City University of Hong Kong
       year: 2021-2024
     - course: M.Sc. in Information Technology
