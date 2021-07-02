@@ -1,4 +1,7 @@
 ---
+title: Zhongyu YAO, Frank
+role: RA of Computer Science
+avatar_filename: null
 organizations:
   - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/
@@ -7,8 +10,6 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Zhongyu YAO, Frank
-role: RA of Computer Science
 bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen to
   interesting ideas.
 interests:
@@ -49,12 +50,15 @@ education:
     - course: B.Eng in Computer Science
       institution: Elite Class of Outstanding Engineers Program, CQUPT
       year: 2014-2018
+    - course: PhD in Computer Science
+      institution: City University of Hong Kong
+      year: ""
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-I am Zhong-Yu YAO (**姚钟毓** in Chinese). I work as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Internet and Mobile Computing Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
+I am a PhD student at Dept. Computer Science, City University of Hong Kong. Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Internet and Mobile Computing Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
 
 I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life also always attracts me.
 
