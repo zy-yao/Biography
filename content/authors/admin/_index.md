@@ -43,7 +43,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: ""
+      year: 2021-2024
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
