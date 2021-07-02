@@ -41,6 +41,9 @@ social:
     link: files/cv.pdf
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: City University of Hong Kong
+      year: ""
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
@@ -50,9 +53,6 @@ education:
     - course: B.Eng in Computer Science
       institution: Elite Class of Outstanding Engineers Program, CQUPT
       year: 2014-2018
-    - course: PhD in Computer Science
-      institution: City University of Hong Kong
-      year: ""
 email: ""
 user_groups:
   - Researchers
