@@ -1,12 +1,12 @@
 ---
 title: Zhongyu YAO, Frank
-role: RA of Computer Science
+role: PhD Student of Computer Science
 avatar_filename: null
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
   - name: IMCL, Department of Computing
-    url: https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html
+    url: https://www4.comp.polyu.edu.hk/~labimcl/index.html
 superuser: true
 authors:
   - admin
