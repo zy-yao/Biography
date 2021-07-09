@@ -58,7 +58,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student at Dept. Computer Science, City University of Hong Kong. Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
+I am a PhD student at City University of Hong Kong. Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
 
 I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life also always attracts me.
 
