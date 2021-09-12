@@ -5,8 +5,6 @@ avatar_filename: null
 organizations:
   - name: City University of Hong Kong
     url: https://www.cityu.edu.hk/
-  - name: IMCL, Department of Computing
-    url: https://www4.comp.polyu.edu.hk/~labimcl/index.html
 superuser: true
 authors:
   - admin
