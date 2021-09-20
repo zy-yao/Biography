@@ -5,6 +5,8 @@ avatar_filename: null
 organizations:
   - name: City University of Hong Kong
     url: https://www.cityu.edu.hk/
+  - name: East Asian Bioinformatics and Computational Biology (Hong Kong)
+    url: http://bioinfo.cs.cityu.edu.hk/
 superuser: true
 authors:
   - admin
@@ -15,11 +17,6 @@ interests:
   - Bioinformatic
   - Transfer learning
   - Graph neural networks
-  # - Reinforcement learning
-  # - Deep Learning
-  # - Auto ML
-  # - Explainable AI
-
 social:
   - icon: envelope
     icon_pack: fas
