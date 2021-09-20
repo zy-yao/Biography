@@ -11,13 +11,15 @@ authors:
 bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen to
   interesting ideas.
 interests:
-  - Graph neural networks
-  - Reinforcement learning
-  - Deep Learning
-  - Auto ML
-  - Explainable AI
+  - Data science
   - Bioinformatic
-  - Applied machine learning
+  - Transfer learning
+  - Graph neural networks
+  # - Reinforcement learning
+  # - Deep Learning
+  # - Auto ML
+  # - Explainable AI
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -56,11 +58,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student at City University of Hong Kong. Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/) supervision from the Hong Kong Polytechnic University in 2020.
+I am a PhD student in [Department of Computer Science](https://www.cs.cityu.edu.hk/) at City University of Hong Kong under the supervision of [Dr. WONG Ka-Chun](http://www.cityu.edu.hk/stfprofile/kc.w.htm). I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in machine learning/data mining-related interdisciplinary R&D. My research interests include **applied** **machine** **learning**, **transfer** **learning**, and **bioinformatics**.
 
-I have a strong passion for machine learning/data mining-related interdisciplinary R&D. I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in ML/DM-related competitions and projects. Besides, knowing the truth/origin of life also always attracts me.
 
-I mainly focus on **graph** **neural** **networks**, **reinforcement** **learning**, and **bioinformatics**.
+Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/)  supervision from the Hong Kong Polytechnic University in 2020, and the Bachelor's degree under [Prof. Jin Wang's](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm) supervision from CQUPT in 2018 separately.
 
 - - -
 
