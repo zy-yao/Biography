@@ -8,6 +8,9 @@ summary: "We develop a series of prediction models using big data techniques to
 draft: false
 featured: false
 external_link: https://www.zhongyu.site/publication/bigarm_dasfaa_2020/
+links:
+  - url: https://www.youtube.com/watch?v=3lE7rVWm8CE
+    name: Introduction Video
 image:
   filename: bigarm.jpg
   focal_point: CENTER
