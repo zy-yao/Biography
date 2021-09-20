@@ -39,11 +39,11 @@ featured: true #false
 url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-030-59419-0_48.pdf
 url_code:
 url_dataset:
-url_poster:
+url_poster: https://www4.comp.polyu.edu.hk/~labimcl/bda-bigarm.html
 url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
 url_source: https://www.lscm.hk/eng/project.php?detail_id=154
-url_video: https://www4.comp.polyu.edu.hk/~labimcl/bigarm.html
+url_video: https://www.youtube.com/watch?v=3lE7rVWm8CE
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
