@@ -12,7 +12,7 @@ bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen t
   interesting ideas.
 interests:
   - Data science
-  - Bioinformatic
+  - Bioinformatics
   - Transfer learning
   - Graph neural networks
 social:
