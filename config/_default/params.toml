@@ -112,7 +112,7 @@ directions = "MMW 1406, HK CityU"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 16:00 to 17:00", "Wednesday 16:00 to 17:00"]
+office_hours = ["Monday 16:00 to 17:00", "Wednesday 15:30 to 16:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
