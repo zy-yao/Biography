@@ -5,8 +5,6 @@ avatar_filename: null
 organizations:
   - name: City University of Hong Kong
     url: https://www.cityu.edu.hk/
-  - name: East Asian Bioinformatics and Computational Biology (Hong Kong)
-    url: http://bioinfo.cs.cityu.edu.hk/
 superuser: true
 authors:
   - admin
@@ -56,7 +54,6 @@ user_groups:
   - Visitors
 ---
 I am a PhD student in [Department of Computer Science](https://www.cs.cityu.edu.hk/) at City University of Hong Kong under the supervision of [Dr. WONG Ka-Chun](http://www.cityu.edu.hk/stfprofile/kc.w.htm). I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in machine learning/data mining-related interdisciplinary R&D. My research interests include **applied** **machine** **learning**, **transfer** **learning**, and **bioinformatics**.
-
 
 Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/)  supervision from the Hong Kong Polytechnic University in 2020, and the Bachelor's degree under [Prof. Jin Wang's](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm) supervision from CQUPT in 2018 separately.
 
