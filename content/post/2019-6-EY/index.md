@@ -14,7 +14,7 @@ image:
 ![](ranking.jpg)
 
 **[EY NextWave Data Science competition 2019](https://www.ey.com/en_gl/careers/nextwave-data-science-challenge)** focuses on how data can help the next smart city thrive, and boost the mobility of the future.  In this competition, systematic data mining and processing ideas are used. I am glad to share them. 
-[HERE](https://github.com/zy-yao/EY-NextWave-Data-Science-Challenge-2019 'Github') is my source code.
+[HERE](https://github.com/zy-yao/EY-NextWave-Data-Science-Challenge-2019 "Github") is my source code.
 
 ### 1.Understand the problem
 
@@ -83,11 +83,11 @@ Submissions are evaluated using the F1-score. We may see the results below. The 
 
 In the future, we may consider finding more hidden but efficient features, trying more advanced and proper models (Neural Network, AdaBoostClassifier...) to achieve better performance. 
 
-Hopefully, our work could inspire solutions that help city authorities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order that cities as smart as their citizens.
+Hopefully, our work could inspire solutions that help city authorities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order that cities are as smart as their citizens.
 
 ### PS:
 
-Today is a big data era. Data is just like an iceberg, what we can see is just a small piece, however, there is pretty large valuable information behind them. It is urgent to use CS-related knowledge/research to decipher them.
+Today is a big data era. Data is just like an iceberg, what we can see is just a small piece, however, there is pretty large valuable information behind them. It is urgent to use machine learning methods to decipher them.
 
 ![](power_data.png)
 
