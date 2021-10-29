@@ -42,11 +42,9 @@ education:
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
-    - course: Visiting Student
-      institution: The University of California, Irvine
-      year: 2016
     - course: B.Eng in Computer Science
-      institution: Elite Class of Outstanding Engineers Program, CQUPT
+      institution: "Elite Class of Outstanding Engineers Program, CQUPT  / The
+        University of California, Irvine "
       year: 2014-2018
 email: ""
 user_groups:
