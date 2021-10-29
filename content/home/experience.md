@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.polyu.edu.hk/"
   location = "Hong Kong"
   date_start = "2019-05-04"
-  date_end = ""
+  date_end = "2021-02-28"
   description = """
   Responsibilities include:
 
