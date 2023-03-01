@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recursive Balanced k-Subset Sum Partition for Rule-constrained Resource Allocation."
-authors: [Zhuo Li, Jiannong Cao, Zhongyu Yao (2020).]
+title: "The comprehensive and systematic identification of BLCA-specific SF-regulated, survival-related AS events."
+authors: [Zhe Liu, Xudong Liu, Fang Liu, Hui Zhao, Yu Zhang, Yafan Wang, Ying Ma, Fuzhou Wang, Weitong Zhang, Olutomilayo Olayemi Petinrin, Zhongyu Yao, Jingbo Liang, Qian He, Dayun Feng (2022).]
 date: 2020-07-25T16:22:18+08:00
-doi: "10.1145/3340531.3412076"
+doi: "10.1016/j.gene.2022.146657"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T16:22:18+08:00
@@ -16,8 +16,8 @@ publishDate: 2020-07-25T16:22:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "29th ACM International Conference On Information and Knowledge Management (CIKM 2020)"
-publication_short: "CIKM 2020"
+publication: "GENE"
+publication_short: "gene"
 
 abstract: ""
 
@@ -36,14 +36,14 @@ featured: true #false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3340531.3412076
+url_pdf: https://doi.org/10.1016/j.gene.2022.146657
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides: 
 url_source: 
-url_video: https://acm-prod-cdn.literatumonline.com/3340531.3412076/3c0b2068-8f6d-4e70-8454-8d8d39bf502f/3340531.3412076.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e3e3538303cb00a09ca761dfae12dc16f8c9129c9c98baee830c41a3e805e859c6ee2ef344241c8f41f08bf3e3347c4fb8efc5ca49312bd7bac3218cc684c1d1fa3bf2f9762a82
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,15 +67,11 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Rule-constrained resource allocation aims to evenly distribute tasks to different processors under the constraints of a set of allocation rules. Conventional heuristic approach fails to achieve optimal solution while simple brute force method has the defects of extremely high computational complexity.
-To address these limitations, we propose “recursive balanced k-subset sum partition (RBkSP)”, in which iterative “cut-oneout” policy is employed that in each round, only one subset is partitioned whose weights of tasks sum up to 1/𝑘 of the
-total weight of all tasks in the set. In a single partition, we
-first create a dynamic programming table with its elements
-recursively computed, then use “zig-zag search” method to
-explore the table and find out elements with optimal subset
-partition, finally assign them to different places. Afterwards,
-to resolve conflicts during allocation, we use heuristic method
-which is simple but effective to adjust the allocation of tasks
-that are contradicted to specific rules. Testing results show
-RBkSP can achieve more balanced allocation with lower
-computational complexity over classical benchmarks.
+Bladder urothelial carcinoma (BLCA) is a complex disease with high morbidity and mortality. 
+Changes in alternative splicing (AS) and splicing factor (SF) can affect gene expression, thus playing an essential role in tumorigenesis. 
+This study downloaded 412 patients' clinical information and 433 samples of transcriptome profiling data from TCGA. 
+And we collected 48 AS signatures from SpliceSeq. LASSO and Cox analyses were used for identifying survival-related AS events in BLCA. 
+Finally, 1,645 OS-related AS events in 1,129 genes were validated by Kaplan-Meier (KM) survival analysis, ROC analysis, risk curve analysis, and independent prognostic analysis. 
+Finally, our survey provides an AS-SF regulation network consisting of five SFs and 46 AS events. In the end, we profiled genes that AS occurred in pan-cancer and five SFs’ expression in tumor and normal samples in BLCA. 
+We selected CLIP-seq data for validation the interaction regulated by RBP. 
+Our study paves the way for potential therapeutic targets of BLCA.
