@@ -1,6 +1,7 @@
 ---
 title: "2022.06: One paper accepted in Gene"
-date: 2022-08-14T09:33:48.828Z
+#date: 2022-06-14T09:33:48.828Z
+date: 2022-06-14
 draft: false
 featured: false
 image:
