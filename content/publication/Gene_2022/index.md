@@ -3,17 +3,17 @@
 
 title: "The comprehensive and systematic identification of BLCA-specific SF-regulated, survival-related AS events."
 authors: [Zhe Liu, Xudong Liu, Fang Liu, Hui Zhao, Yu Zhang, Yafan Wang, Ying Ma, Fuzhou Wang, Weitong Zhang, Olutomilayo Olayemi Petinrin, Zhongyu Yao, Jingbo Liang, Qian He, Dayun Feng (2022).]
-date: 2020-07-25T16:22:18+08:00
+date: 2022-07-25T16:22:18+08:00
 doi: "10.1016/j.gene.2022.146657"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-25T16:22:18+08:00
+publishDate: 2022-07-25T16:22:18+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "GENE"
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true #false
+featured: false#true 
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
