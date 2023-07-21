@@ -16,9 +16,9 @@ interests:
   - Transfer learning
   - Graph neural networks
 social:
-    - icon: google-scholar
+  - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-TW&view_op=list_works&gmla=AMpAcmQoZumgNuesdNXKxrCie1MrIbc1ib2ms0PKdpQoHrFS9IqOba85LSdeRSdegFkuciZhJdT5nVhwLeq5M45uExzzrVKLhNZ7ChV9S8-0KV_6Nne0XQ0XR_QzAC1aPV4&user=1DEPehIAAAAJ
+    link: https://scholar.google.com
   - icon: envelope
     icon_pack: fas
     link: mailto:frank7.yao@connect.polyu.hk
