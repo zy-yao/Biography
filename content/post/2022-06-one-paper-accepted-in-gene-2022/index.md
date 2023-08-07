@@ -8,6 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Our paper, *The comprehensive and systematic identification of BLCA-specific SF-regulated, survival-related AS events*, is accepted in Gene. In this paper, we we comprehensively and systematically identified five SFs and 46 AS events.
+Our paper, *The comprehensive and systematic identification of BLCA-specific SF-regulated, survival-related AS events*, is accepted in Gene. In this paper, we comprehensively and systematically identified five SFs and 46 AS events.
 
 Please click [HERE](https://www.zhongyu.site/publication/Gene_2022/) for more details.
