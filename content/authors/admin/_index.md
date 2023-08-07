@@ -47,8 +47,7 @@ education:
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
     - course: B.Eng in Computer Science
-      institution: Elite Class of Outstanding Engineers Program, CQUPT  / Exchange, UC
-        Irvine
+      institution: Elite Class of Outstanding Engineers Program, CQUPT / Exchange, UC Irvine
       year: 2014-2018
 email: ""
 user_groups:
