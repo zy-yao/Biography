@@ -1,5 +1,5 @@
 ---
-title: "2020.07: One paper accepted in CIKM 2020"
+title: "2020.07: One paper accepted by CIKM 2020"
 date: 2020-08-14T09:33:48.828Z
 draft: false
 featured: false
