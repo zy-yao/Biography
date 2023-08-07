@@ -1,5 +1,5 @@
 ---
-title: "2020.04: One paper published in IEEE Transactions on Big Data"
+title: "2020.04: One paper published by IEEE Transactions on Big Data"
 date: 2020-04-15T13:38:23.987Z
 draft: false
 featured: false
