@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Lecturer"
+  title = "Faculty Lecturer"
   company = "Huaiyin Institute of Technology"
   company_url = "https://en.hyit.edu.cn/"
   location = "Huaian, China"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Undertake the theoretical and practical teaching tasks of the specialty as well as other teaching tasks
+  * Undertake the theoretical and practical teaching tasks of the specialty as well as other teaching tasks in computer science
   * Follow the latest research progress and participate in scientific research projects, publish scientific research papers and other scientific research tasks
   * Participate in the construction of disciplines and professional construction tasks of the university
   """
