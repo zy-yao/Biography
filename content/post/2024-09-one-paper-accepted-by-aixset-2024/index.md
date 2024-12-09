@@ -10,4 +10,4 @@ image:
 ---
 Environmental research often attracts significant public attention for its relevance to society sustainability. Enormous resources (including research funding) have been allocated to the development of environmental research in the past years. To assess its effectiveness and relevance to stakeholders, we have conducted a data science study on the research projects funded by Environment and Conservation Fund (ECF) more than ten years. The results indicate that there are preferred project topics and researchers. In addition, sentiment analysis reveals the subtle ECF research project writing strategy trends which reflect the pragmatic aspects of topic selections and wording behaviors. Comparing to the stakeholders (i.e. government, mass media, and non-government organization), we observe interesting insights into the topic and wording differences among the relevant parties in a differential manner.
 
-Please click [HERE](https://www.zhongyu.site/publication/CIKM_2020/) for more details.
+Please click [HERE](https://www.zhongyu.site/publication/aixset_2024/) for more details.
