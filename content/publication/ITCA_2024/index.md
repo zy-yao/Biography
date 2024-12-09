@@ -5,7 +5,7 @@ title: "ETC: An Ensemble Transformer Framework for Fetal
 Health Classification."
 authors: [Zhongyu Yao ,Tianhang Chen, Ka-Chun Wong (2024)]
 date: 2024-11-29T16:22:18+08:00
-doi: "10.1109/AIxSET62544.2024.00023"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-11-29T16:22:18+08:00
@@ -44,7 +44,7 @@ url_poster:
 url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
 url_source: 
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10771021
+url_pdf: https://www.zhongyu.site/publication/itca_2024/ETC%20An%20Ensemble%20Transformer%20Framework%20for%20Fetal.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
