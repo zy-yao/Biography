@@ -3,12 +3,12 @@ title: Zhongyu YAO, Frank
 role: PhD Student of Computer Science
 avatar_filename: null
 organizations:
-  - name: City University of Hong Kong
+  - name: "City University of Hong Kong "
     url: https://www.cityu.edu.hk/
 superuser: true
 authors:
   - admin
-bio: My name is Zhong-Yu Yao(姚钟毓 in Chinese). I am always glad to listen to
+bio: My name is Zhong-Yu Yao (姚钟毓 in Chinese). I am always glad to listen to
   interesting ideas.
 interests:
   - Data science
@@ -41,10 +41,10 @@ social:
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: City University of Hong Kong
+      institution: (QS Rank 62) City University of Hong Kong
       year: 2021-2026
     - course: M.Sc. in Information Technology
-      institution: The Hong Kong Polytechnic University
+      institution: (QS Rank 57) The Hong Kong Polytechnic University
       year: 2018-2020
     - course: B.Eng in Computer Science
       institution: Elite Class of Outstanding Engineers Program, CQUPT / Exchange, UC Irvine
