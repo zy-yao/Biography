@@ -3,7 +3,7 @@
 
 title: "ETC: An Ensemble Transformer Framework for Fetal
 Health Classification."
-authors: [Zhongyu Yao ,Tianhang Chen, Ka-Chun Wong (2024)]
+authors: [Zhongyu Yao, Tianhang Chen, Ka-Chun Wong (2024)]
 date: 2024-11-29T16:22:18+08:00
 doi: ""
 
