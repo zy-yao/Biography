@@ -38,12 +38,12 @@ featured: true #false
 
 url_code:
 url_dataset:
-url_video: https://www.youtube.com/watch?v=3lE7rVWm8CE
-url_poster: https://www4.comp.polyu.edu.hk/~labimcl/bda-bigarm.html
+url_video: 
+url_poster: 
 url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
-url_source: https://www.lscm.hk/eng/project.php?detail_id=154
-url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-030-59419-0_48.pdf
+url_source: 
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10771021
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,7 +58,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["Big-data-driven Airport Resource Management Engine"]
+projects: []
+#projects: ["Big-data-driven Airport Resource Management Engine"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -67,4 +68,4 @@ projects: ["Big-data-driven Airport Resource Management Engine"]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-We develop a series of prediction models using big data techniques to predict unknown factors affecting resource management, and design novel allocation algorithms to efficiently manage resources. We demonstrate our research achievements in baggage reclaim belt management at HKIA to efficiently balance overload reclaim belts for improving Custom Service Excellent. Specifically, we demonstrate the whole allocation process for any single flight selected by the user and showcase the principle and advantage of our intelligence prediction algorithms which outperform the accuracy of HKIA’s estimation in flight arrival time prediction and bag count prediction by 39.7% and 62.5% respectively. Meanwhile, we compare our full-day allocation plan to the one manually scheduled by experienced operators from HKIA to show the performance improvement in balancing overload reclaim belts. 
+Environmental research often attracts significant public attention for its relevance to society sustainability. Enormous resources (including research funding) have been allocated to the development of environmental research in the past years. To assess its effectiveness and relevance to stakeholders, we have conducted a data science study on the research projects funded by Environment and Conservation Fund (ECF) more than ten years. The results indicate that there are preferred project topics and researchers. In addition, sentiment analysis reveals the subtle ECF research project writing strategy trends which reflect the pragmatic aspects of topic selections and wording behaviors. Comparing to the stakeholders (i.e. government, mass media, and non-government organization), we observe interesting insights into the topic and wording differences among the relevant parties in a differential manner.
