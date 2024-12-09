@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Differential Topic Selections and Wording Behaviors Among Funded Environmental Projects with Stakeholders: Invited Paper."
-authors: [Zhongyu Yao , He Zhang , Tianhang Chen , Yuchen Wang , Weidun Xie, and Ka-Chun Wong(2024)]
+authors: [Zhongyu Yao , He Zhang , Tianhang Chen , Yuchen Wang , Weidun Xie, and Ka-Chun Wong (2024)]
 date: 2024-09-14T16:22:18+08:00
 doi: "10.1109/AIxSET62544.2024.00023"
 
