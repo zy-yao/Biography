@@ -42,7 +42,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: City University of Hong Kong
-      year: 2021-2025
+      year: 2021-2026
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2018-2020
@@ -54,7 +54,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong under the supervision of [Prof. WONG Ka-Chun](http://www.cityu.edu.hk/stfprofile/kc.w.htm). I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in machine learning/data mining-related interdisciplinary R&D. My research interests include **applied** **machine** **learning**, **transfer** **learning**, and **bioinformatics**.
+I am a PhD student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong under the supervision of [Prof. WONG Ka-Chun](http://www.cityu.edu.hk/stfprofile/kc.w.htm). I design and develop [some well-performed models/tools](https://www.zhongyu.site/#projects) in machine learning/data mining-related interdisciplinary R&D. My research interests include **applied** **machine** **learning**, **deep** **learning**, and **bioinformatics**.
 
 Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://www4.comp.polyu.edu.hk/~csjcao/) Lab [(IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html) in PolyU. I received the Master's degree under [Prof. Chung Fu-Lai (Korris)'s](https://www4.comp.polyu.edu.hk/~cskchung/)  supervision from the Hong Kong Polytechnic University in 2020, and the Bachelor's degree under [Prof. Jin Wang's](https://baike.baidu.com/item/%E7%8E%8B%E8%BF%9B/59950070) supervision from CQUPT in 2018 separately.
 
