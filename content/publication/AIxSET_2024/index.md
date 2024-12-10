@@ -43,7 +43,7 @@ url_poster:
 url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
 url_source: 
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10771021
+url_pdf: https://www.zhongyu.site/publication/aixset_2024/Differential_Topic_Selections_and_Wording_Behaviors_Among_Funded_Environmental_Projects_with_Stakeholders_Invited_Paper.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
