@@ -44,7 +44,7 @@ url_poster:
 url_project: #https://carousel.comp.polyu.edu.hk/
 url_slides: 
 url_source: 
-url_pdf: https://www.zhongyu.site/publication/itca_2024/ETC%20An%20Ensemble%20Transformer%20Framework%20for%20Fetal.pdf
+url_pdf: #https://www.zhongyu.site/publication/itca_2024/ETC%20An%20Ensemble%20Transformer%20Framework%20for%20Fetal.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
