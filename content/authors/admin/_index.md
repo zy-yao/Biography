@@ -14,8 +14,8 @@ interests:
   - Data science
   - Machine learning
   - Bioinformatics
-  - Transfer learning
-  - Graph neural networks
+  - Artificial Intelligence
+  - Interdisciplinary Research
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -61,3 +61,5 @@ Before this, I worked as a research assistant at [Prof. Jiannong Cao's](https://
 - - -
 
 Always open to interesting ideas.
+
+#https://www4.comp.polyu.edu.hk/~labimcl/profile/zhongyu-yao.html
